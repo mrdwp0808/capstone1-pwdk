@@ -2,7 +2,7 @@
 # 💻 Capstone 1 – Sistem Manajemen Penjualan Laptop
 
 ## 📝 Preface
-Capstone 1 adalah proyek terminal-based inventory & sales management system yang dirancang sebagai latihan pemrograman Python untuk mengelola data penjualan laptop secara efisien. Program ini dibangun dalam rangka memenuhi tugas akhir dari pembelajaran dasar Python dan simulasi implementasi sistem berbasis data untuk toko laptop fiktif.
+Capstone 1 ini adalah proyek terminal-based inventory & sales management system dengan studi kasus pada manajemen penjualan laptop yang dirancang sebagai latihan pemrograman Python untuk mengelola data penjualan laptop secara efisien. Program ini dibangun dalam rangka memenuhi tugas akhir dari pembelajaran dasar Python dan simulasi implementasi sistem berbasis data untuk toko laptop fiktif.
 
 ## 📌 Introduction
 Sistem ini ditujukan untuk pemilik toko atau manajer inventaris yang ingin memantau pembelian, penjualan, dan stok laptop secara real-time melalui interface berbasis terminal. Dengan data yang tersimpan dalam struktur dictionary Python, pengguna dapat menambahkan, mengedit, menghapus, dan melihat data hanya dengan beberapa input sederhana.
