@@ -15,8 +15,9 @@ Sistem ini ditujukan untuk pemilik toko atau manajer inventaris yang ingin meman
 | Create (Tambah)        | ✅         | ✅         | ✅ *(otomatis dari pembelian)* |
 | Update (Edit)          | ✅         | ✅         | ✅ *(otomatis)* |
 | Delete (Hapus)         | ✅         | ✅         | ✅    |
-| Serial Number Tracking | ✅         | ✅         | ✅    |  <--- Bagian ini terdapat dalam semua fitur karena user perlu menginputkan serial number dari laptop saat membeli maupun menjual  
-
+| Serial Number Tracking | ✅         | ✅         | ✅    |   
+    ^
+    |__ Bagian ini terdapat dalam semua fitur karena user perlu menginputkan serial number dari laptop saat membeli maupun menjual 
 ## 🔍 Feature Details
 
 ### 🔎 View
